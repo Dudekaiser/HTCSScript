@@ -1,4 +1,4 @@
-## 3. html input form
+## 2. html input form
 ### 1) form
 * syntax   
 ```<form [property="property value"]> form elements </form>```
