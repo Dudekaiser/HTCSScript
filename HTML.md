@@ -136,7 +136,7 @@ ex>
   
 ### (5) Hyperlink
 * syntax   
-__```<a href="link adress">text or image</a>```__
+__```<a href="link address">text or image</a>```__
 <br>
 
 * text link   
@@ -148,7 +148,7 @@ __```<a href="link adress">text or image</a>```__
 
 * image link
 ```
-<a href="link"<img src="image adress" alt="alternative text"></a>
+<a href="link"<img src="image address" alt="alternative text"></a>
 ```
 
 * ex>   
