@@ -286,7 +286,7 @@ __ex>__
 ex> Membership registration time, region, entry route, etc.
 <br>
 
-* 기본 태그 : __```<input type="hidden" name="name" value="Value to send to server">```__   
+* syntax : __```<input type="hidden" name="name" value="Value to send to server">```__   
 
 __ex>__
 ```
