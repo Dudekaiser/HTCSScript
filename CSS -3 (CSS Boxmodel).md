@@ -25,7 +25,7 @@ __② padding__: Space between content area and box
 __③ border__: Border thickness or Box  
 __④ margin__: Space between box models   
 
-<a href="#"><img src=httpaddress.png width="100px" alt="box model"></a>   
+<a href="#"><img src=https://user-images.githubusercontent.com/108077414/180662223-7223a23e-9c1b-47d5-a5d6-6bd97e1636cb.png width="400px" alt="box model"></a>
 <br>
 <br>
 
